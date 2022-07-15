@@ -1,3 +1,3 @@
 # Приложение для хранения данных пользователя
 ___
-![loginActivity](https://github.com/Alexandr2058/myFirstApp/blob/main/app/src/main/res/drawable/login.png)
+![loginActivity](https://github.com/Alexandr2058/myFirstApp/blob/main/app/src/main/res/drawable/login.png) ![docActivity](https://github.com/Alexandr2058/myFirstApp/blob/main/app/src/main/res/drawable/doc_activ.png) ![servActivity](https://github.com/Alexandr2058/myFirstApp/blob/main/app/src/main/res/drawable/serv_activ.png) ![menuActivity](https://github.com/Alexandr2058/myFirstApp/blob/main/app/src/main/res/drawable/menu_activ.png)
